@@ -8,7 +8,8 @@ aplicação completa entregue na Aula 20. O enunciado completo do case está em
 
 ## Identificação
 
-- Nome completo:
-- RA:
-- Turma: (quarta ou quinta)
+- Nome completo: Pedro Henrique Souza Lima
+- RA: 925113748
+- Turma: Quinta-Feira (Turma 5-MM)
 - O que espero aprender:
+Espero aprender e me desenvolver melhor na programação Front-End, já que o meu sonho é trabalhar com isso e ingressar no mercado de trabalho, sei que com um bom professor, vou tirar ótimos frutos dessa matéria.
